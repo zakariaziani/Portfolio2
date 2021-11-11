@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>DevFolio Bootstrap Template</title>
+  <title>Ziani Zakaria</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
@@ -24,12 +24,6 @@
   <!-- Main Stylesheet File -->
   <link href="css/style.css" rel="stylesheet">
 
-  <!-- =======================================================
-    Theme Name: DevFolio
-    Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-    Author: BootstrapMade.com
-    License: https://bootstrapmade.com/license/
-  ======================================================= -->
 </head>
 
 <body id="page-top">
@@ -37,7 +31,7 @@
   <!--/ Nav Star /-->
   <nav class="navbar navbar-b navbar-trans navbar-expand-md fixed-top" id="mainNav">
     <div class="container">
-      <a class="navbar-brand js-scroll" href="#page-top">DevFolio</a>
+      <a class="navbar-brand js-scroll" href="#page-top">Ziani Zakaria</a>
       <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarDefault"
         aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span></span>
@@ -76,10 +70,8 @@
     <div class="intro-content display-table">
       <div class="table-cell">
         <div class="container">
-          <!--<p class="display-6 color-d">Hello, world!</p>-->
-          <h1 class="intro-title mb-4">I am Morgan Freeman</h1>
-          <p class="intro-subtitle"><span class="text-slider-items">CEO DevFolio,Web Developer,Web Designer,Frontend Developer,Graphic Designer</span><strong class="text-slider"></strong></p>
-          <!-- <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p> -->
+          <h1 class="intro-title mb-4">I am Ziani Zakaria</h1>
+          <p class="intro-subtitle"><span class="text-slider-items">Nadi,Web Developer,Web Designer,Nadi 3awtani,Graphic Designer</span><strong class="text-slider"></strong></p>
         </div>
       </div>
     </div>
@@ -101,31 +93,31 @@
                   </div>
                   <div class="col-sm-6 col-md-7">
                     <div class="about-info">
-                      <p><span class="title-s">Name: </span> <span>Morgan Freeman</span></p>
-                      <p><span class="title-s">Profile: </span> <span>full stack developer</span></p>
-                      <p><span class="title-s">Email: </span> <span>contact@example.com</span></p>
-                      <p><span class="title-s">Phone: </span> <span>(617) 557-0089</span></p>
+                      <p><span class="title-s">Name: </span> <span>Ziani Zakaria</span></p>
+                      <p><span class="title-s">Profile: </span> <span>Security Noob</span></p>
+                      <p><span class="title-s">Email: </span> <span>zakariaziani99@gmail.com</span></p>
+                      <p><span class="title-s">Phone: </span> <span>(212) 648-848983</span></p>
                     </div>
                   </div>
                 </div>
                 <div class="skill-mf">
                   <p class="title-s">Skill</p>
-                  <span>HTML</span> <span class="pull-right">85%</span>
+                  <span>Networking</span> <span class="pull-right">85%</span>
                   <div class="progress">
                     <div class="progress-bar" role="progressbar" style="width: 85%;" aria-valuenow="85" aria-valuemin="0"
                       aria-valuemax="100"></div>
                   </div>
-                  <span>CSS3</span> <span class="pull-right">75%</span>
+                  <span>Pen-Testing tools</span> <span class="pull-right">75%</span>
                   <div class="progress">
                     <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0"
                       aria-valuemax="100"></div>
                   </div>
-                  <span>PHP</span> <span class="pull-right">50%</span>
+                  <span>Python</span> <span class="pull-right">70%</span>
                   <div class="progress">
                     <div class="progress-bar" role="progressbar" style="width: 50%" aria-valuenow="50" aria-valuemin="0"
                       aria-valuemax="100"></div>
                   </div>
-                  <span>JAVASCRIPT</span> <span class="pull-right">90%</span>
+                  <span>Linux</span> <span class="pull-right">80%</span>
                   <div class="progress">
                     <div class="progress-bar" role="progressbar" style="width: 90%" aria-valuenow="90" aria-valuemin="0"
                       aria-valuemax="100"></div>
@@ -141,7 +133,7 @@
                   </div>
                   <p class="lead">
                     Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Curabitur arcu erat, accumsan id
-                    imperdiet et, porttitor
+                    imperdiet et, Nadi b jehd
                     at sem. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Nulla
                     porttitor accumsan tincidunt.
                   </p>
@@ -174,7 +166,7 @@
               Services
             </h3>
             <p class="subtitle-a">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+              Lorem ipsum, dolor Li Bghiti Mra7ba sit amet consectetur adipisicing elit.
             </p>
             <div class="line-mf"></div>
           </div>
@@ -297,7 +289,7 @@
               <span class="ico-circle"><i class="ion-ios-calendar-outline"></i></span>
             </div>
             <div class="counter-num">
-              <p class="counter">15</p>
+              <p class="counter">0</p>
               <span class="counter-text">YEARS OF EXPERIENCE</span>
             </div>
           </div>
@@ -319,8 +311,8 @@
               <span class="ico-circle"><i class="ion-ribbon-a"></i></span>
             </div>
             <div class="counter-num">
-              <p class="counter">36</p>
-              <span class="counter-text">AWARD WON</span>
+              <p class="counter">55</p>
+              <span class="counter-text">AWARD WON :) </span>
             </div>
           </div>
         </div>
@@ -714,9 +706,9 @@
                       mollitia inventore?
                     </p>
                     <ul class="list-ico">
-                      <li><span class="ion-ios-location"></span> 329 WASHINGTON ST BOSTON, MA 02108</li>
-                      <li><span class="ion-ios-telephone"></span> (617) 557-0089</li>
-                      <li><span class="ion-email"></span> contact@example.com</li>
+                      <li><span class="ion-ios-location"></span> km 7, Route El Jadida, Casablanca</li>
+                      <li><span class="ion-ios-telephone"></span> (212) 648-848983</li>
+                      <li><span class="ion-email"></span> zakariaziani99@gmail.com</li>
                     </ul>
                   </div>
                   <div class="socials">
@@ -739,15 +731,8 @@
         <div class="row">
           <div class="col-sm-12">
             <div class="copyright-box">
-              <p class="copyright">&copy; Copyright <strong>DevFolio</strong>. All Rights Reserved</p>
               <div class="credits">
-                <!--
-                  All the links in the footer should remain intact.
-                  You can delete the links only if you purchased the pro version.
-                  Licensing information: https://bootstrapmade.com/license/
-                  Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=DevFolio
-                -->
-                Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+                Designed by machi ana
               </div>
             </div>
           </div>
