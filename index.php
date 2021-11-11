@@ -88,7 +88,7 @@
                 <div class="row">
                   <div class="col-sm-6 col-md-5">
                     <div class="about-img">
-                      <img src="img/testimonial-2.jpg" class="img-fluid rounded b-shadow-a" alt="">
+                      <img src="img/testimonial-2.jpeg" class="img-fluid rounded b-shadow-a" alt="">
                     </div>
                   </div>
                   <div class="col-sm-6 col-md-7">
@@ -496,7 +496,7 @@
           <div id="testimonial-mf" class="owl-carousel owl-theme">
             <div class="testimonial-box">
               <div class="author-test">
-                <img src="img/testimonial-2.jpg" alt="" class="rounded-circle b-shadow-a">
+                <img src="img/testimonial-2.jpeg" alt="" class="rounded-circle b-shadow-a">
                 <span class="author">Xavi Alonso</span>
               </div>
               <div class="content-test">
@@ -509,7 +509,7 @@
             </div>
             <div class="testimonial-box">
               <div class="author-test">
-                <img src="img/testimonial-4.jpg" alt="" class="rounded-circle b-shadow-a">
+                <img src="img/testimonial-2.jpeg" alt="" class="rounded-circle b-shadow-a">
                 <span class="author">Marta Socrate</span>
               </div>
               <div class="content-test">
@@ -564,7 +564,7 @@
             <div class="card-footer">
               <div class="post-author">
                 <a href="#">
-                  <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                  <img src="img/testimonial-2.jpeg" alt="" class="avatar rounded-circle">
                   <span class="author">Ziani Zakaria</span>
                 </a>
               </div>
@@ -595,7 +595,7 @@
             <div class="card-footer">
               <div class="post-author">
                 <a href="#">
-                  <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                  <img src="img/testimonial-2.jpeg" alt="" class="avatar rounded-circle">
                   <span class="author">Ziani Zakaria</span>
                 </a>
               </div>
@@ -626,7 +626,7 @@
             <div class="card-footer">
               <div class="post-author">
                 <a href="#">
-                  <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                  <img src="img/testimonial-2.jpeg" alt="" class="avatar rounded-circle">
                   <span class="author">Ziani Zakaria</span>
                 </a>
               </div>
