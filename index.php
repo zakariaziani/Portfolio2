@@ -565,7 +565,7 @@
               <div class="post-author">
                 <a href="#">
                   <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
-                  <span class="author">Morgan Freeman</span>
+                  <span class="author">Ziani Zakaria</span>
                 </a>
               </div>
               <div class="post-date">
@@ -596,7 +596,7 @@
               <div class="post-author">
                 <a href="#">
                   <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
-                  <span class="author">Morgan Freeman</span>
+                  <span class="author">Ziani Zakaria</span>
                 </a>
               </div>
               <div class="post-date">
@@ -627,7 +627,7 @@
               <div class="post-author">
                 <a href="#">
                   <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
-                  <span class="author">Morgan Freeman</span>
+                  <span class="author">Ziani Zakaria</span>
                 </a>
               </div>
               <div class="post-date">
